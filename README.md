@@ -38,9 +38,9 @@
    
    This gives slope and intercept of the fit line. The expected ideal life expectancy from US can be calculated from this. The actual life expectancy for US can be obtained from the table. Both are compared. Same procedure is repeated for all outcomes.
    
-   The expected Life expectancy of females at birth in the US is approximately 88.57 
-   The actual life expectancy of females at birth in US from the data, averaged over years,  is 80.91
-   The United States has approximately 9.46% lower life expectancy than expected based on its GDP
+   The expected Life expectancy of females at birth in the US is approximately 88.57. 
+   The actual life expectancy of females at birth in US from the data, averaged over years,  is 80.91.
+   The United States has approximately 9.46% lower life expectancy than expected based on its GDP.
 
    **Health Care Effectiveness Score Analysis:**
    
@@ -59,8 +59,8 @@
    ![image](https://github.com/user-attachments/assets/ff24cc1f-a09a-4215-8fc2-3d420ac0f28b)
    
    This gives slope and intercept of the fit line. 
-   The expected life expectancy of males at birth in the United States is approximately 84
-   The actual life expectancy of males at birth in US from the data, averaged over years,  is 75.88
+   The expected life expectancy of males at birth in the United States is approximately 84.
+   The actual life expectancy of males at birth in US from the data, averaged over years,  is 75.88.
    The US has approximately 10.70% lower life expectancy than expected based on its GDP.
 
    **Health Care Effectiveness Score Analysis:**
@@ -81,8 +81,8 @@
   
    This gives slope and intercept of the fit line. 
    The expected infant mortality rate in the US is calculated to be approximately -4.016. This seemingly negative value suggests that ideally, the US should not just have zero but negative deaths. But however Zero infant       Mortality is expected from US for the GDP it spends.
-   The actual infant mortality rate in the US from the data is 5.85 averaged over years
-   The US has 5.85% higher infant mortality than the expected number of 0
+   The actual infant mortality rate in the US from the data is 5.85 averaged over years.
+   The US has 5.85% higher infant mortality than the expected number of 0.
 
    **Health Care Effectiveness Score Analysis:**
    
