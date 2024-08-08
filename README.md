@@ -42,7 +42,37 @@
    ![image](https://github.com/user-attachments/assets/02667e14-ca75-473c-8e90-93b97bad0491)
    From the report, we infer that Indonesia has the highest score and US has the lowest score. On comparing the percentage higher/lower than average, Indonesia and India seem to perform fairly better than other countries. United States shows strictly lower outcomes than average, followed by Germany.
 
-2. 
+2. **Male Life Expectancy at Birth Outcome:**
+  ![image](https://github.com/user-attachments/assets/a72a4d65-c832-4ec7-927c-30bf30570695)
+   From the visual, we infer that Male expectancy increases with increase in GDP for most of countries except some outliers. United States is indicated by square box and is one of the outlier. This indicates that United States should have higher Male Expectancy for its GDP.
+
+   **JMP Result:**
+   ![image](https://github.com/user-attachments/assets/ff24cc1f-a09a-4215-8fc2-3d420ac0f28b)
+   This gives slope and intercept of the fit line. 
+   The expected life expectancy of males at birth in the United States is approximately 84
+   The actual life expectancy of males at birth in US from the data, averaged over years,  is 75.88
+   The US has approximately 10.70% lower life expectancy than expected based on its GDP.
+
+   **Health Care Effectiveness Score Analysis:**
+  ![image](https://github.com/user-attachments/assets/56b156f1-aeb3-4127-a4e2-46049d36c5f0)
+   From the report, we infer that Indonesia has the highest score and US has the lowest score. On comparing the percentage higher/lower than average, Indonesia and India seem to perform fairly better than other countries. United States shows strictly lower outcomes than average, followed by Germany.
+
+3. **Infant Mortality Rates:**
+  ![image](https://github.com/user-attachments/assets/87e7931f-427c-4c04-a596-3725e6e9bb9b)
+   From the visual, we infer that Infant Mortality decreases with increase in GDP for most of countries except some outliers. United States is indicated by square box and is one of the outlier. This indicates that United States should have lower Infant Mortality for its GDP.
+
+   **JMP Result:**
+  ![image](https://github.com/user-attachments/assets/078a57bc-5726-4427-9c23-6a72af3466fd)
+   This gives slope and intercept of the fit line. 
+   The expected infant mortality rate in the US is calculated to be approximately -4.016. This seemingly negative value suggests that ideally, the US should not just have zero but negative deaths. But however Zero infant       Mortality is expected from US for the GDP it spends.
+   The actual infant mortality rate in the US from the data is 5.85 averaged over years
+   The US has 5.85% higher infant mortality than the expected number of 0
+
+   **Health Care Effectiveness Score Analysis:**
+  ![image](https://github.com/user-attachments/assets/cc2615ed-c792-4fa7-993d-3a2ba8badb33)
+   From the report, we infer that Japan has the highest score and India has the lowest score. On comparing the percentage higher/lower than average, Indonesia and India seem to perform fairly poorer than other countries. United States and Netherlands are however in the mid range when it comes to Infant Mortality Rate.
+
+**OVERALL INFERENCE:**  The United States need to improve health care system to increase Life expectancy of both Males and Females. On the other side, India and Indonesia needs to focus on reducing Infant Mortality rate. The level of priority with each countries must take action on each of these outcomes is illustrated by the Health Care Effectiveness Score table in the report.
 
 
 
