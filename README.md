@@ -90,7 +90,7 @@
   
    From the report, we infer that Japan has the highest score and India has the lowest score. On comparing the percentage higher/lower than average, Indonesia and India seem to perform fairly poorer than other countries. United States and Netherlands are however in the mid range when it comes to Infant Mortality Rate.
 
-**OVERALL INFERENCE:**  The United States need to improve health care system to increase Life expectancy of both Males and Females. On the other side, India and Indonesia needs to focus on reducing Infant Mortality rate. The level of priority with each countries must take action on each of these outcomes is illustrated by the Health Care Effectiveness Score table in the report.
+**OVERALL INFERENCE:**  The United States need to improve health care system to increase Life expectancy of both Males and Females. On the other side, India and Indonesia needs to focus on reducing Infant Mortality rate. The level of priority with which each countries must take action on each of these outcomes is illustrated by the Health Care Effectiveness Score table in the report.
 
 
 
